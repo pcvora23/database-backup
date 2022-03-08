@@ -1,0 +1,231 @@
+[{
+  "_id": {
+    "$oid": "61e531eec0e5f1548b8cfed8"
+  },
+  "id": 1,
+  "name": "Recommended",
+  "categoryBelongsTo": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e53208c0e5f1548b8cfeda"
+  },
+  "id": 2,
+  "name": "New Launches",
+  "categoryBelongsTo": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e53214c0e5f1548b8cfedc"
+  },
+  "id": 3,
+  "name": "Best Sellers",
+  "categoryBelongsTo": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e5323bc0e5f1548b8cfede"
+  },
+  "id": 4,
+  "name": "Audio",
+  "categoryBelongsTo": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "id": 5,
+  "name": "LifeStyle",
+  "categoryBelongsTo": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e5324ec0e5f1548b8cfee2"
+  },
+  "id": 6,
+  "name": "Other Accesories",
+  "categoryBelongsTo": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61efbdbf24348b3fe60a6fa1"
+  },
+  "id": 7,
+  "name": "Onlyhere",
+  "categoryBelongsTo": {
+    "$oid": "620f3a31bd86a5076bbf1068"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6203517db379217eb203918f"
+  },
+  "id": 8,
+  "name": "Tech And Gadgets",
+  "categoryBelongsTo": {
+    "$oid": "61e530e5c0e5f1548b8cfecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62035199b379217eb2039191"
+  },
+  "id": 9,
+  "name": "Health & Fitness",
+  "categoryBelongsTo": {
+    "$oid": "61e530e5c0e5f1548b8cfecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620351bfb379217eb2039193"
+  },
+  "id": 10,
+  "name": "Smart Home & Iot",
+  "categoryBelongsTo": {
+    "$oid": "61e530e5c0e5f1548b8cfecc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6203529fb379217eb2039195"
+  },
+  "id": 11,
+  "name": "Low-End",
+  "categoryBelongsTo": {
+    "$oid": "61e53115c0e5f1548b8cfed0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620352aeb379217eb2039197"
+  },
+  "id": 12,
+  "name": "Mid-Range",
+  "categoryBelongsTo": {
+    "$oid": "61e53115c0e5f1548b8cfed0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620352bcb379217eb2039199"
+  },
+  "id": 13,
+  "name": "High-End",
+  "categoryBelongsTo": {
+    "$oid": "61e53115c0e5f1548b8cfed0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620352fab379217eb203919b"
+  },
+  "id": 14,
+  "name": "Smart Tv",
+  "categoryBelongsTo": {
+    "$oid": "61e5311ec0e5f1548b8cfed2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62035302b379217eb203919d"
+  },
+  "id": 15,
+  "name": "Led Tv",
+  "categoryBelongsTo": {
+    "$oid": "61e5311ec0e5f1548b8cfed2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62035358b379217eb203919f"
+  },
+  "id": 16,
+  "name": "UltraBooks",
+  "categoryBelongsTo": {
+    "$oid": "61e53135c0e5f1548b8cfed4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62035361b379217eb20391a1"
+  },
+  "id": 17,
+  "name": "NetBooks",
+  "categoryBelongsTo": {
+    "$oid": "61e53135c0e5f1548b8cfed4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62035369b379217eb20391a3"
+  },
+  "id": 18,
+  "name": "Tablets",
+  "categoryBelongsTo": {
+    "$oid": "61e53135c0e5f1548b8cfed4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62035372b379217eb20391a5"
+  },
+  "id": 19,
+  "name": "Desktop Laptops",
+  "categoryBelongsTo": {
+    "$oid": "61e53135c0e5f1548b8cfed4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6203539cb379217eb20391a7"
+  },
+  "id": 20,
+  "name": "Headphones",
+  "categoryBelongsTo": {
+    "$oid": "61e53141c0e5f1548b8cfed6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620353a4b379217eb20391a9"
+  },
+  "id": 21,
+  "name": "Microphones",
+  "categoryBelongsTo": {
+    "$oid": "61e53141c0e5f1548b8cfed6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620353aeb379217eb20391ab"
+  },
+  "id": 22,
+  "name": "Speakers",
+  "categoryBelongsTo": {
+    "$oid": "61e53141c0e5f1548b8cfed6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6205f2743a4a07944cbceefa"
+  },
+  "id": 23,
+  "name": "dummy testing",
+  "categoryBelongsTo": {
+    "$oid": "61e53141c0e5f1548b8cfed6"
+  },
+  "__v": 0
+}]

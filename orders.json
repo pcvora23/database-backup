@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "620d25dc6a51c161d0a196c1"
+  },
+  "user": {
+    "$oid": "61fcf88cc87c5b06dcaa939d"
+  },
+  "orderedItems": [
+    {
+      "product": {
+        "$oid": "61efbed824348b3fe60bac7e"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "620d25dc6a51c161d0a196c2"
+      }
+    },
+    {
+      "product": {
+        "$oid": "61e536654acbe9e28157be9c"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "620d25dc6a51c161d0a196c3"
+      }
+    },
+    {
+      "product": {
+        "$oid": "61e536ed4acbe9e28157be9e"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "620d25dc6a51c161d0a196c4"
+      }
+    },
+    {
+      "product": {
+        "$oid": "61efbed824348b3fe60bac7e"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "620d25dc6a51c161d0a196c5"
+      }
+    },
+    {
+      "product": {
+        "$oid": "61e536654acbe9e28157be9c"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "620d25dc6a51c161d0a196c6"
+      }
+    },
+    {
+      "product": {
+        "$oid": "61e536ed4acbe9e28157be9e"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "620d25dc6a51c161d0a196c7"
+      }
+    }
+  ],
+  "TotalAmount": 69488,
+  "Shipping_Address": "H1 near plot vistar, jasdan, 364520, gujrat, india",
+  "OrderDate": {
+    "$date": "2022-02-16T16:27:08.412Z"
+  },
+  "PaymentStatus": "Completed",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62207f0db5102a5639b6dfb7"
+  },
+  "user": {
+    "$oid": "620626bc44b7fc2d46d30ac1"
+  },
+  "orderedItems": [
+    {
+      "product": {
+        "$oid": "61efbed824348b3fe60bac7e"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "62207f0db5102a5639b6dfb8"
+      }
+    }
+  ],
+  "TotalAmount": 747,
+  "Shipping_Address": "h1 near babariya colony, ahemdabad, 364485, gujrat, india",
+  "OrderDate": {
+    "$date": "2022-03-03T08:40:45.977Z"
+  },
+  "PaymentStatus": "Completed",
+  "__v": 0
+}]

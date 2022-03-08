@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "id": 1,
+  "name": "SmartPhones",
+  "OfferPercentage": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e530e5c0e5f1548b8cfecc"
+  },
+  "id": 2,
+  "name": "SmarLife",
+  "OfferPercentage": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "id": 3,
+  "name": "Accessories",
+  "OfferPercentage": 15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e53115c0e5f1548b8cfed0"
+  },
+  "id": 4,
+  "name": "Narzo Smartphones",
+  "OfferPercentage": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e5311ec0e5f1548b8cfed2"
+  },
+  "id": 5,
+  "name": "Realme Tv",
+  "OfferPercentage": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e53135c0e5f1548b8cfed4"
+  },
+  "id": 6,
+  "name": "Laptops & Tablets",
+  "OfferPercentage": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e53141c0e5f1548b8cfed6"
+  },
+  "id": 7,
+  "name": "Audio",
+  "OfferPercentage": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620f3a31bd86a5076bbf1068"
+  },
+  "id": 8,
+  "name": "Onlyhere",
+  "OfferPercentage": 0,
+  "__v": 0
+}]

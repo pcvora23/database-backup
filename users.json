@@ -1,0 +1,267 @@
+[{
+  "_id": {
+    "$oid": "61fcf812c87c5b06dcaa9396"
+  },
+  "id": 1,
+  "name": "demo",
+  "email": "demo@gmail.com",
+  "password": "$2b$10$R6fYkS8nQRCWfv3GOSxKye92bw4ufpYvdvBZGjwt6uC6o6MgNBili",
+  "role": "user",
+  "mobileno": 894561230,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fcf820c87c5b06dcaa9399"
+  },
+  "id": 2,
+  "name": "parag",
+  "email": "parag@gmail.com",
+  "password": "$2b$10$34Nf93Iewl480wnW7VVLweJIxzNhS.4YNm3bdBW0n2TrRwyKYAg6e",
+  "role": "admin",
+  "mobileno": 8546123009,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fcf88cc87c5b06dcaa939d"
+  },
+  "id": 3,
+  "name": "manjeet",
+  "email": "manjeet@gmail.com",
+  "password": "$2b$10$L1jwm1l5cSFj05DHW6K2J.L2kCIDm.KNU9iLFDtvHBWbw4CNTHYre",
+  "role": "user",
+  "mobileno": 7894561230,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fcfb7fc87c5b06dcaab0b1"
+  },
+  "id": 7,
+  "name": "sachin",
+  "email": "sachin@gmail.com",
+  "password": "$2b$10$MudrFeyd7g12amQjlPNmVe5n7qIjgPSvzBbPfW9FgJNbbXajOytdK",
+  "role": "user",
+  "mobileno": 8529634123,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fcfc60c87c5b06dcaab406"
+  },
+  "id": 4,
+  "name": "jeel",
+  "email": "jeel@gmail.com",
+  "password": "$2b$10$U2caIvaTHkEnkH2iu3lj7OzcWR6.wuAOv4xEDK9EeazMl1TBfylUK",
+  "role": "user",
+  "mobileno": 7458961230,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fcfc76c87c5b06dcaab409"
+  },
+  "id": 5,
+  "name": "sanjay",
+  "email": "sanjay@gmail.com",
+  "password": "$2b$10$vIpLdtHsXXWVBCwhipQWZ.5lWKXlA8qf2UtNFM9/p7cDSeRJUM2D6",
+  "role": "user",
+  "mobileno": 9514236870,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fcfca3c87c5b06dcaab40d"
+  },
+  "id": 6,
+  "name": "manpreet",
+  "email": "umang@gmail.com",
+  "password": "$2b$10$/IwMPS93XwfVNeNHk5Ltau0S1OY7PSjzuRa3xgFTB1Gl4o7/mlDza",
+  "role": "user",
+  "mobileno": 8524136970,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6200db2ffc008aa4d1b6229f"
+  },
+  "id": 8,
+  "name": "sanjay",
+  "email": "sanjay@gmail.com",
+  "password": "$2b$10$gh31sy1ILNs0gs0PSBGJBuCRwQyHn2ncuQCua.Xom98INQMrca.Aq",
+  "role": "user",
+  "mobileno": 7458961230,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62010001ec5ea9573ba838ea"
+  },
+  "id": 9,
+  "name": "rutvik",
+  "email": "rutvik@gmail.com",
+  "password": "$2b$10$34qM9cA/HLe8HvLJKivDn.iQ4hX.E7z2OD48DKxUUeU5XWtrmrLHm",
+  "role": "user",
+  "mobileno": 8956231106,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62012905a58ef1e0f248d3ad"
+  },
+  "id": 10,
+  "name": "dhaval",
+  "email": "dhaval@gmail.com",
+  "password": "$2b$10$xYtAJI3xIfUjy47H.J4h2eH2hi4Jr4h2Viqnof/6raFJfgjMvd7Fm",
+  "role": "user",
+  "mobileno": 7539162480,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6201fba7699794d9a08cf474"
+  },
+  "id": 11,
+  "name": "krunal",
+  "email": "krunal@gmail.com",
+  "password": "$2b$10$sqsOIU6o8JGzIWEhZsatv.ih/BCCgpYCYb9/zAF88tTFYXQDFzwiy",
+  "role": "user",
+  "mobileno": 5263418972,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6201ff5a699794d9a08cf477"
+  },
+  "id": 12,
+  "name": "hemanshu",
+  "email": "hemanshu@gmail.com",
+  "password": "$2b$10$qTbOzQxoNeBMxUoVvSH85eaJ9v5S97ewo2xEoQWH7Lu8FU4wx/yIy",
+  "role": "user",
+  "mobileno": 8596321456,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620497052bb9dbc8f81929c1"
+  },
+  "id": 13,
+  "name": "mukesh",
+  "email": "mukesh@gmail.com",
+  "password": "$2b$10$CGT82FF5rWO4WKVsZlB8U.4UcNxeOUMIKaaAwQxfQ/rQpCEfNXzOa",
+  "role": "user",
+  "mobileno": 7845123693,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620498322bb9dbc8f81929c5"
+  },
+  "id": 14,
+  "name": "ramesh",
+  "email": "ramesh@gmail.com",
+  "password": "$2b$10$ja/dscxl88zST8Qbjw.9kujW0Ezag/IDrd4/ni2Lc0QggFJyDcpPC",
+  "role": "user",
+  "mobileno": 7894512360,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6206259363921834257720d7"
+  },
+  "id": 15,
+  "name": "keval",
+  "email": "keval@gmail.com",
+  "password": "$2b$10$4THQM.1wQjLL7OJBsselzuiV8E9Tsz021N6hMPD56ljKXtI9/K.GS",
+  "role": "user",
+  "mobileno": 7845961235,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620625b663921834257720db"
+  },
+  "id": 16,
+  "name": "mahesh",
+  "email": "mahesh@gmail.com",
+  "password": "$2b$10$7TMJ2nCFoYpGCRkk54jEyeMbAWrlujDFRfobqI9tKoMY4tNIWswiW",
+  "role": "user",
+  "mobileno": 7894561230,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620626bc44b7fc2d46d30ac1"
+  },
+  "id": 17,
+  "name": "dinesh",
+  "email": "dinesh@gmail.com",
+  "password": "$2b$10$POo/JiZk3yuMGfgHPnj7MO78WHAHO1hOUgFj.Ij3hMFGmprqknSu6",
+  "role": "user",
+  "mobileno": 1234567890,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620de62c1742b9a1a58b3e27"
+  },
+  "id": 18,
+  "name": "mohit",
+  "email": "mohit@gmail.com",
+  "password": "$2b$10$RAYrPjkPD0.8sFzux3zX8OvneCXT9OPUC7.lDdcXZdVw4nUH8OSpK",
+  "role": "user",
+  "mobileno": 7894561230,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620e33f51742b9a1a58b413b"
+  },
+  "id": 19,
+  "name": "kohli",
+  "email": "kohli@gmail.com",
+  "password": "$2b$10$wTnYw6i7FGqiJll2HuSQbOT/JYoxFIHn.InZLLjTCt36tLWZQHZiy",
+  "role": "user",
+  "mobileno": 7894561230,
+  "transactions": [],
+  "orders": [],
+  "isdeleted": false,
+  "__v": 0
+}]

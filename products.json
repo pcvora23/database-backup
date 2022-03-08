@@ -1,0 +1,1324 @@
+[{
+  "_id": {
+    "$oid": "61e535924acbe9e28157be9a"
+  },
+  "id": 1,
+  "name": "realme C21Y",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/sp_recommeded/1627970794478_OIkztkcUarW1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642410906835",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e531eec0e5f1548b8cfed8"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 9499,
+  "description": "Triple Camera,Real Performance",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e536654acbe9e28157be9c"
+  },
+  "id": 2,
+  "name": "realme C25s",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/sp_recommeded/1621424163546_R0ebDIvvqH.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642410909870",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e531eec0e5f1548b8cfed8"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 10999,
+  "description": "Powerful Processor. 6000mAh Battery.",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e536ed4acbe9e28157be9e"
+  },
+  "id": 3,
+  "name": "realme C25Y",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/sp_recommeded/1632817235526_Ye7tu-Q_g95.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642410907960",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e531eec0e5f1548b8cfed8"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 11999,
+  "description": "50MP AI Camera,All-day Performance",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e5372e4acbe9e28157bea0"
+  },
+  "id": 4,
+  "name": "realme narzo 50A",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/sp_recommeded/1631776707007_BCyq3kpsB.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642410907677",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e531eec0e5f1548b8cfed8"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 12499,
+  "description": "Mighty Performance Inside",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e537644acbe9e28157bea2"
+  },
+  "id": 5,
+  "name": "realme 8i",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/sp_recommeded/1620287407432_kyRA5VHWHaw.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642410905751",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e531eec0e5f1548b8cfed8"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 13999,
+  "description": "120Hz, Infinitely Smooth",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e537ad4acbe9e28157bea4"
+  },
+  "id": 6,
+  "name": "realme narzo 30",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/sp_recommeded/1623400675833_5Bo0wJwI-D.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642410905983",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e531eec0e5f1548b8cfed8"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 13499,
+  "description": "Unleash Peak Performance",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e537e04acbe9e28157bea6"
+  },
+  "id": 7,
+  "name": "realme 8",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/sp_recommeded/1616485282573_m5f-cWxnt.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642410905833",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e531eec0e5f1548b8cfed8"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 15999,
+  "description": "In Style,Capture Infinity",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e538194acbe9e28157bea8"
+  },
+  "id": 8,
+  "name": "realme 8 5G",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/sp_recommeded/1630653680914_vUnLWvbRR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642410906950",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e531eec0e5f1548b8cfed8"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 16499,
+  "description": "5G,Speed To Infinity",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e9053669f125a99d20796d"
+  },
+  "id": 9,
+  "name": "realme 9i",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/new_launches/1630653418262_xP8IQ4E-A.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642661029439",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53208c0e5f1548b8cfeda"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 13999,
+  "description": "Next-Level Power",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e905b269f125a99d20796f"
+  },
+  "id": 10,
+  "name": "realme GT Master Edition",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/new_launches/1638173907903_Fv92yDJgS5B.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642660877622",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53208c0e5f1548b8cfeda"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 25999,
+  "description": "Mastery beyond Speed",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e905fd69f125a99d207971"
+  },
+  "id": 11,
+  "name": "realme C25 Y",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/new_launches/1637046340070_-EfAvYdBbH3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642660876698",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53208c0e5f1548b8cfeda"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 10999,
+  "description": "50MP AI Camera. All-day Performance",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e9064269f125a99d207973"
+  },
+  "id": 12,
+  "name": "realme GT Neo 2",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/new_launches/1633694333879_f-5tyIM4l.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642660876445",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53208c0e5f1548b8cfeda"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 31999,
+  "description": "Everything In Neo",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e9067e69f125a99d207975"
+  },
+  "id": 13,
+  "name": "realme Narzo 50A",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/new_launches/1631776707007_GA-PG6aGjFW.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642660876044",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53208c0e5f1548b8cfeda"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 11499,
+  "description": "Mighty Performance Inside",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e906bd69f125a99d207977"
+  },
+  "id": 14,
+  "name": "realme Narzo 50i",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/new_launches/1631776407331_5IiREpZVwT.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642660875274",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53208c0e5f1548b8cfeda"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 7499,
+  "description": "Mighty Performance Inside",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e9072f69f125a99d207979"
+  },
+  "id": 15,
+  "name": "realme C25 Y",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/new_launches/1631506702085_7X4ZXFfnavzz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642660874945",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53208c0e5f1548b8cfeda"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 10999,
+  "description": "50MP AI Camera. All-day Performance",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e9078769f125a99d20797d"
+  },
+  "id": 16,
+  "name": "realme 8i",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/new_launches/1630653680914_UfOYb0yJh-o.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642660874912",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53208c0e5f1548b8cfeda"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 13999,
+  "description": "India's First Helio G9 Processor",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ea96e9e00efa0aa64f8555"
+  },
+  "id": 17,
+  "name": "realme GT Master Edition",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/best_sellers/1638173907903_UowRkBc5J.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642423784626",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53214c0e5f1548b8cfedc"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 25999,
+  "description": "Mastery Beyond Speed",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ea9734e00efa0aa64f8557"
+  },
+  "id": 18,
+  "name": "realme GT 5G",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/best_sellers/1628679174740_miB-mc3s6jD.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642423783489",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53214c0e5f1548b8cfedc"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 37999,
+  "description": "Sheer Speed Falgship",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ea99a9e00efa0aa64f8592"
+  },
+  "id": 19,
+  "name": "realme C11 2021",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/best_sellers/1593436005199_KOPjCaAJ1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642423782707",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53214c0e5f1548b8cfedc"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 7499,
+  "description": "Bigger Battery Larger Display",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ea99dee00efa0aa64f8594"
+  },
+  "id": 20,
+  "name": "realme Narzo 30 5G",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/best_sellers/1623253153556_eeLIXvesz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642423783754",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53214c0e5f1548b8cfedc"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 14999,
+  "description": "Unleash Peak Performance",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ea9a0be00efa0aa64f8596"
+  },
+  "id": 21,
+  "name": "realme 8i",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/best_sellers/1630653680914_EH9-ATuI0.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642423784358",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53214c0e5f1548b8cfedc"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 13999,
+  "description": "120 Hz,Infinitely Smooth",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ea9a3be00efa0aa64f8598"
+  },
+  "id": 22,
+  "name": "realme X7 Pro 5G",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/best_sellers/1611836921377_kc8Z-Jk-16B.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642423782779",
+  "category": {
+    "$oid": "61e530bac0e5f1548b8cfeca"
+  },
+  "subcategory": {
+    "$oid": "61e53214c0e5f1548b8cfedc"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 29999,
+  "description": "XperienceThe Future",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ece2226926c90c1da52753"
+  },
+  "id": 23,
+  "name": "realme Smart Tv Stick",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/smart_life/1634106408458_M1iP58esvj.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1643009364329",
+  "category": {
+    "$oid": "61e530e5c0e5f1548b8cfecc"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 3699,
+  "description": "New Google Tv Platform| 4KP60 AV1 Encoding",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ece2656926c90c1da52755"
+  },
+  "id": 24,
+  "name": "realme Techlife Air Purifier",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/smart_life/1632727127886_bRdDf2dQlA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643009363632",
+  "category": {
+    "$oid": "61e530e5c0e5f1548b8cfecc"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 7499,
+  "description": "Breathe Better,Live Better",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ece2a46926c90c1da52757"
+  },
+  "id": 25,
+  "name": "realme Watch 2 Pro",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/smart_life/1629373840520_AA_hwMFFQjx.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1643009363057",
+  "category": {
+    "$oid": "61e530e5c0e5f1548b8cfecc"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 4499,
+  "description": "Big Display,Pro Sports",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ece2d96926c90c1da52759"
+  },
+  "id": 26,
+  "name": "realme Smart TV Neo",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/smart_life/1632736298242_70nsca0F3m4.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1643009363910",
+  "category": {
+    "$oid": "61e530e5c0e5f1548b8cfecc"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 14999,
+  "description": "Smarter Is Better",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ece4896926c90c1da5275b"
+  },
+  "id": 27,
+  "name": "realme Pad",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/smart_life/1628766763084_3op6eCPdF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643009363066",
+  "category": {
+    "$oid": "61e530e5c0e5f1548b8cfecc"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 13999,
+  "description": "Ultra Slim,Real Fun",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ece4b36926c90c1da5275d"
+  },
+  "id": 28,
+  "name": "realme Book",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/smart_life/1630992241023_bOk-6yX6J.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643009363375",
+  "category": {
+    "$oid": "61e530e5c0e5f1548b8cfecc"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 46999,
+  "description": "Designed To Empower",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ece84a6926c90c1da5275f"
+  },
+  "id": 29,
+  "name": "realme Smart TV 4k",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/smart_life/1622446151388_Vv1qg9N5h.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643009363564",
+  "category": {
+    "$oid": "61e530e5c0e5f1548b8cfecc"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 30999,
+  "description": "Home Cinema With Voice Assistant",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ece8946926c90c1da52761"
+  },
+  "id": 30,
+  "name": "realme Watch 2",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/smart_life/1638356645950_IKA991H8A.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643009364546",
+  "category": {
+    "$oid": "61e530e5c0e5f1548b8cfecc"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 2999,
+  "description": "Smart.Spoty.Always On",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee2e4dfe349c625963333d"
+  },
+  "id": 31,
+  "name": "realme Brick Bluettoth Speaker",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Audio/1634106465117_bWGwpAwv2Kj.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1643000765742",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5323bc0e5f1548b8cfede"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 2999,
+  "description": "Extra Bass,More Power",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee2e80fe349c625963333f"
+  },
+  "id": 32,
+  "name": "realme Pocket Bluettoth Speaker",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Audio/1631249556049_Uh4Yulcx2L9.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1642999267386",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5323bc0e5f1548b8cfede"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 1099,
+  "description": "Music In Your Pocket",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee2ea3fe349c6259633341"
+  },
+  "id": 33,
+  "name": "realme Buds Q2 Neo",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Audio/1626945120282_itLjn0mh6.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1642999266649",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5323bc0e5f1548b8cfede"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 1599,
+  "description": "Quite Clear,True Wireless",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee2f13fe349c6259633343"
+  },
+  "id": 34,
+  "name": "realme Buds Wireless 2",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Audio/1626945217215_mXSsbeWD8.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1642999266932",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5323bc0e5f1548b8cfede"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 2299,
+  "description": "Noise Off,Bass On",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee313efe349c6259633345"
+  },
+  "id": 35,
+  "name": "realme Buds Q2",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Audio/1624522463778_jYiD8-VR0Ux_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642999267606",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5323bc0e5f1548b8cfede"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 2499,
+  "description": "Noise Off,Power On",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee3169fe349c6259633347"
+  },
+  "id": 36,
+  "name": "realme Buds Air Pro",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Audio/1601906096530_ir5eDx_n_.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642999264683",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5323bc0e5f1548b8cfede"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 4999,
+  "description": "Tune Out The Noise",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee31a2fe349c6259633349"
+  },
+  "id": 37,
+  "name": "realme Buds Wireless Pro",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Audio/1608535037436_yAm3QX9na.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642999264831",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5323bc0e5f1548b8cfede"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 3999,
+  "description": "Noise Off Music On",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee31d6fe349c625963334b"
+  },
+  "id": 38,
+  "name": "realme Buds Wireless ",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Audio/1573467332644_43PJ6AM1L5j.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642999264563",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5323bc0e5f1548b8cfede"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 1799,
+  "description": "Real Sound. Unwired",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee34d9fe349c625963337a"
+  },
+  "id": 39,
+  "name": "realme Hair Dryer",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/LifeStyle/1624541450977_QfJLVJkuh.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642913996003",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 1999,
+  "description": "Your Style Expert",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee3519fe349c625963337c"
+  },
+  "id": 40,
+  "name": "realme Mobile Gaming Controller",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/LifeStyle/1614057007991_N1hPRbL8g.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642913994547",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 999,
+  "description": "CapAir Mapping Technology",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee355ffe349c625963337e"
+  },
+  "id": 41,
+  "name": "realme Beard Trimmer Plus",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/LifeStyle/1624541508361_R4aylc5WGvk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642913996562",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 1999,
+  "description": "Your Style Expert",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee3575fe349c6259633380"
+  },
+  "id": 42,
+  "name": "realme Beard Trimmer ",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/LifeStyle/1624852364066_BFjq-9787.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642913997116",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 1299,
+  "description": "Your Style Expert",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee35d4fe349c6259633382"
+  },
+  "id": 43,
+  "name": "realme M1 Sonic Electric Toothbrush",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/LifeStyle/1599034619529_PGWgdRmFf.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642913993654",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 1999,
+  "description": "For Perfect Oral Health",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee361cfe349c6259633384"
+  },
+  "id": 44,
+  "name": "realme Coocking Black Clip",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/LifeStyle/1614064023148_6lf6DNtZJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642913994681",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 1799,
+  "description": "Semiconductor Enhanced Heat Dissipation ",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee3663fe349c6259633386"
+  },
+  "id": 45,
+  "name": "realme N1 Sonic Electric Toothbrush",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/LifeStyle/1601880948577_ktxEPneIGl.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642913993919",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 799,
+  "description": "Every Dry Better Cleaning",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee36a7fe349c6259633388"
+  },
+  "id": 46,
+  "name": "realme lED Smart Bulb",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/LifeStyle/1615905316247_3epMSjBfI74i.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642913995267",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e53244c0e5f1548b8cfee0"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 749,
+  "description": "16 Million Colors",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee4e62fe349c6259633428"
+  },
+  "id": 47,
+  "name": "realme Cooling Black Clip Neo",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Other/1634106484832_YbQEQerBzT.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643006983514",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5324ec0e5f1548b8cfee2"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 999,
+  "description": "Rapid Colling",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee4e9efe349c625963342a"
+  },
+  "id": 48,
+  "name": "realme Mobile Game Trigger",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Other/1634106498123_3mdYiXQHl0.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643006983340",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5324ec0e5f1548b8cfee2"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 699,
+  "description": "Gaming Mouse Touch",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee4ef8fe349c625963342c"
+  },
+  "id": 49,
+  "name": "realme Type-C SuperDart Game Cable",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Other/1634106511188_c_uX_3or8mXX.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643006983726",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5324ec0e5f1548b8cfee2"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 599,
+  "description": "Support 65W Superdart Charge",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee4f42fe349c625963342e"
+  },
+  "id": 50,
+  "name": "realme 20000Mah Power Bank 2",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Other/1608695823342_37wQ41ve7Ls.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643006983737",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5324ec0e5f1548b8cfee2"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 1699,
+  "description": "Speedy Power For Real",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee4fa3fe349c6259633430"
+  },
+  "id": 51,
+  "name": "realme Wireless Mouse",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Other/1640775023516_nDD0pJHOM.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643006983356",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5324ec0e5f1548b8cfee2"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 799,
+  "description": "Silent Touch | Ergonic Design",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ee4feffe349c6259633432"
+  },
+  "id": 52,
+  "name": "realme 10000Mah Power Bank 2",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/Accessories/Other/1603804230449_oXrqBzjPm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643006983261",
+  "category": {
+    "$oid": "61e530f3c0e5f1548b8cfece"
+  },
+  "subcategory": {
+    "$oid": "61e5324ec0e5f1548b8cfee2"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 999,
+  "description": "Speedy Power For Real",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61efbe7024348b3fe60b34e9"
+  },
+  "id": 53,
+  "name": "realme Micro-USB Cable",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/onlyhere/1633945837036_MPOIhpgLro.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642399682222",
+  "category": {
+    "$oid": "620f3a31bd86a5076bbf1068"
+  },
+  "subcategory": {
+    "$oid": "61efbdbf24348b3fe60a6fa1"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 199,
+  "description": "lorem ipsum remjhsi ijkqouh",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61efbed824348b3fe60bac7e"
+  },
+  "id": 54,
+  "name": "realme Type-C Cable",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/onlyhere/1633945684839_bsbKBLRFt.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642399681778",
+  "category": {
+    "$oid": "620f3a31bd86a5076bbf1068"
+  },
+  "subcategory": {
+    "$oid": "61efbdbf24348b3fe60a6fa1"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 249,
+  "description": "lorem ipsum remjhsi ijkqouh",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61efbf0224348b3fe60bd639"
+  },
+  "id": 55,
+  "name": "realme Buds Air Neo",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/onlyhere/1634885772461_BTcNWnncD.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642399683172",
+  "category": {
+    "$oid": "620f3a31bd86a5076bbf1068"
+  },
+  "subcategory": {
+    "$oid": "61efbdbf24348b3fe60a6fa1"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 399,
+  "description": "lorem ipsum remjhsi ijkqouh",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61efbf1e24348b3fe60bf65a"
+  },
+  "id": 56,
+  "name": "realme Game Controller",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/onlyhere/1614057007991_8KIuDelSg.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642399679903",
+  "category": {
+    "$oid": "620f3a31bd86a5076bbf1068"
+  },
+  "subcategory": {
+    "$oid": "61efbdbf24348b3fe60a6fa1"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 999,
+  "description": "lorem ipsum remjhsi ijkqouh",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61efbf3d24348b3fe60c16e7"
+  },
+  "id": 57,
+  "name": "realme & GRAFFLEX T-SHIRT",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/onlyhere/1608696018552_DV2RzwPOrdk.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642399679364",
+  "category": {
+    "$oid": "620f3a31bd86a5076bbf1068"
+  },
+  "subcategory": {
+    "$oid": "61efbdbf24348b3fe60a6fa1"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 999,
+  "description": "lorem ipsum remjhsi ijkqouh",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61efbf5124348b3fe60c2ca3"
+  },
+  "id": 58,
+  "name": "realmeow Cap",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/onlyhere/1614059229445_B76wdhuFH.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642399682099",
+  "category": {
+    "$oid": "620f3a31bd86a5076bbf1068"
+  },
+  "subcategory": {
+    "$oid": "61efbdbf24348b3fe60a6fa1"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 999,
+  "description": "lorem ipsum remjhsi ijkqouh",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61efbf6524348b3fe60c42e6"
+  },
+  "id": 59,
+  "name": "realmeow T-shirt",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/onlyhere/1614063237784_zxBX3Hvp5NV.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642399681099",
+  "category": {
+    "$oid": "620f3a31bd86a5076bbf1068"
+  },
+  "subcategory": {
+    "$oid": "61efbdbf24348b3fe60a6fa1"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 999,
+  "description": "lorem ipsum remjhsi ijkqouh",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61efbfb224348b3fe60c9d14"
+  },
+  "id": 60,
+  "name": "realme Adventurer Backpack",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/onlyhere/1591953520295_vyVlh99VyWj.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642399679322",
+  "category": {
+    "$oid": "620f3a31bd86a5076bbf1068"
+  },
+  "subcategory": {
+    "$oid": "61efbdbf24348b3fe60a6fa1"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 1499,
+  "description": "lorem ipsum remjhsi ijkqouh",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61efbfc924348b3fe60cb4a4"
+  },
+  "id": 61,
+  "name": "realme T-shirt",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/onlyhere/1597675424246_O8ZYqjJqf.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642399685413",
+  "category": {
+    "$oid": "620f3a31bd86a5076bbf1068"
+  },
+  "subcategory": {
+    "$oid": "61efbdbf24348b3fe60a6fa1"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 999,
+  "description": "lorem ipsum remjhsi ijkqouh",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61efbfe024348b3fe60ccdae"
+  },
+  "id": 62,
+  "name": "realme Backpack",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/onlyhere/1546660465921_wlBT1GghO.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642399678830",
+  "category": {
+    "$oid": "620f3a31bd86a5076bbf1068"
+  },
+  "subcategory": {
+    "$oid": "61efbdbf24348b3fe60a6fa1"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 2399,
+  "description": "lorem ipsum remjhsi ijkqouh",
+  "return_policy": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61efbfff24348b3fe60ceb90"
+  },
+  "id": 63,
+  "name": "realme Tote Bag 2",
+  "img": "https://ik.imagekit.io/hu6ewj6cms7/final_project/onlyhere/1598343953637_bw7Ua39Bd.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642399679470",
+  "category": {
+    "$oid": "620f3a31bd86a5076bbf1068"
+  },
+  "subcategory": {
+    "$oid": "61efbdbf24348b3fe60a6fa1"
+  },
+  "brand": "realme",
+  "manufacturedDate": {
+    "$date": "2012-04-30T18:30:00Z"
+  },
+  "price": 999,
+  "description": "lorem ipsum remjhsi ijkqouh",
+  "return_policy": true,
+  "__v": 0
+}]

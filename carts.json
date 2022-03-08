@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "620a2e8e5058343393b51e51"
+  },
+  "user": {
+    "$oid": "62012905a58ef1e0f248d3ad"
+  },
+  "cartItems": [
+    {
+      "product": {
+        "$oid": "61e536654acbe9e28157be9c"
+      },
+      "quantity": 4,
+      "price": 10999,
+      "_id": {
+        "$oid": "620a2ee25058343393b51e6f"
+      }
+    },
+    {
+      "product": {
+        "$oid": "61ee4feffe349c6259633432"
+      },
+      "quantity": 1,
+      "price": 999,
+      "_id": {
+        "$oid": "620a2f115058343393b51e79"
+      }
+    },
+    {
+      "product": {
+        "$oid": "61efbf1e24348b3fe60bf65a"
+      },
+      "quantity": 1,
+      "price": 999,
+      "_id": {
+        "$oid": "620a6f875058343393b51ea7"
+      }
+    },
+    {
+      "product": {
+        "$oid": "61ee2ea3fe349c6259633341"
+      },
+      "quantity": 2,
+      "price": 1599,
+      "_id": {
+        "$oid": "620d0610a2792a160d51ad61"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620b328fa70ef80dacabd29d"
+  },
+  "user": {
+    "$oid": "61fcfb7fc87c5b06dcaab0b1"
+  },
+  "cartItems": [
+    {
+      "product": {
+        "$oid": "61efbed824348b3fe60bac7e"
+      },
+      "quantity": 2,
+      "price": 249,
+      "_id": {
+        "$oid": "620b32e9a70ef80dacabd2bf"
+      }
+    },
+    {
+      "product": {
+        "$oid": "61e536ed4acbe9e28157be9e"
+      },
+      "quantity": 1,
+      "price": 11999,
+      "_id": {
+        "$oid": "620bc585f264b2139335e83f"
+      }
+    },
+    {
+      "product": {
+        "$oid": "61e5372e4acbe9e28157bea0"
+      },
+      "quantity": 2,
+      "price": 12499,
+      "_id": {
+        "$oid": "620bc6f80c47807e5e515b1e"
+      }
+    },
+    {
+      "product": {
+        "$oid": "61e537644acbe9e28157bea2"
+      },
+      "quantity": 1,
+      "price": 13999,
+      "_id": {
+        "$oid": "620bc70c0c47807e5e515b41"
+      }
+    },
+    {
+      "product": {
+        "$oid": "61efbf5124348b3fe60c2ca3"
+      },
+      "quantity": 4,
+      "price": 999,
+      "_id": {
+        "$oid": "620c8233b81e5955609937d8"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620cb8da3518d2c15ab93612"
+  },
+  "user": {
+    "$oid": "620497052bb9dbc8f81929c1"
+  },
+  "cartItems": [
+    {
+      "product": {
+        "$oid": "61ee2e80fe349c625963333f"
+      },
+      "quantity": 2,
+      "price": 1099,
+      "_id": {
+        "$oid": "620cb8da3518d2c15ab93613"
+      }
+    },
+    {
+      "product": {
+        "$oid": "61efbed824348b3fe60bac7e"
+      },
+      "quantity": 1,
+      "price": 249,
+      "_id": {
+        "$oid": "620d10a60e0d20ff40285e8a"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214c05f826a1396f5e79098"
+  },
+  "user": {
+    "$oid": "61fcf820c87c5b06dcaa9399"
+  },
+  "cartItems": [
+    {
+      "product": {
+        "$oid": "61efbed824348b3fe60bac7e"
+      },
+      "quantity": 1,
+      "price": 249,
+      "_id": {
+        "$oid": "6214c05f826a1396f5e79099"
+      }
+    }
+  ],
+  "__v": 0
+}]
